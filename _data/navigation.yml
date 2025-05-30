@@ -9,9 +9,9 @@
 
 main:
   - title: "About me"
-    url: /#-about me/
+    url: //#-about me/
   - title: "Publications"
-    url: /#-publications/
+    url: //#-publications/
 
   # - title: "Talks"
   #   url: /talks/    
